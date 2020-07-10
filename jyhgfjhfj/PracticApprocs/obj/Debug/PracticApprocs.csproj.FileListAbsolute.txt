@@ -1,0 +1,9 @@
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\bin\Debug\PracticApprocs.exe.config
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\bin\Debug\PracticApprocs.exe
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\bin\Debug\PracticApprocs.pdb
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\obj\Debug\PracticApprocs.csprojAssemblyReference.cache
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\obj\Debug\Аpproximation.Form1.resources
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\obj\Debug\PracticApprocs.Properties.Resources.resources
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\obj\Debug\PracticApprocs.csproj.GenerateResource.cache
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\obj\Debug\PracticApprocs.exe
+C:\Users\Admin88\OneDrive\Desktop\Approximation-master\PracticApprocs\obj\Debug\PracticApprocs.pdb
